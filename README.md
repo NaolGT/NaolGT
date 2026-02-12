@@ -1,4 +1,4 @@
- Hi there 👋 I'm Naol Girma (NaolGT) a Computer Science Student
+ Hi there 👋 I'm Naol Girma (NaolGT), a Computer Science Student
 
 - 🔭 I’m working on a variety of projects in **C, Web Development, Python & Machine Learning**
 - 🖥️ Currently I'm Studying Computer Science at Hawassa University and focusing on Web Development on the side, learning to Master Web Development Tools and Tech Stacks.
